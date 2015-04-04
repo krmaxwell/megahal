@@ -1,0 +1,20 @@
+Metadata-Version: 1.0
+Name: megahal
+Version: 0.2
+Summary: Python implementation of megahal markov bot
+Home-page: http://gruntle.org/projects/python/megahal/
+Author: Chris Jones
+Author-email: cjones@gruntle.org
+License: BSD
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Natural Language :: English
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Topic :: Education
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
