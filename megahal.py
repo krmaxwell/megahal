@@ -165,7 +165,7 @@ class Brain(object):
             def boundary(string, position):
                 if position == 0:
                     boundary = False
-                elif position == len(string):
+                elif position == len(string)+1:
                     boundary = True
                 elif (string[position] == "'" and
                     string[position - 1].isalpha() and
